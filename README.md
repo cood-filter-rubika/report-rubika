@@ -5,4 +5,6 @@ https://github.com/cood-filter-rubika/report-rubika
 
 cd report-rubika
 
-python 
+python reporter-maxtor.py
+
+حالا ایدی رو بدون @. وارد. کنسد و بزارید گذارش بزنه
